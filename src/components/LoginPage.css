@@ -1,0 +1,12 @@
+.login-page {
+  display: flex;
+}
+
+.image-section {
+  flex: 60%;
+}
+
+.form-section {
+  flex: 40%;
+  padding: 20px;
+}
