@@ -1,0 +1,14 @@
+.login-page {
+  display: flex;
+  height: 100vh;
+}
+
+.image-section {
+  flex: 0 0 60%;
+  background-size: cover;
+}
+
+.form-section {
+  flex: 1;
+  padding: 20px;
+}
