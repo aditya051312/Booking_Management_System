@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+}
+
+.image-section {
+  width: 60%;
+  height: 100vh;
+  background: url('path_to_your_image') no-repeat center center/cover;
+}
+
+.form-section {
+  width: 40%;
+  padding: 30px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+}
