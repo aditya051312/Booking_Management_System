@@ -1,0 +1,17 @@
+.login-page {
+  display: flex;
+}
+
+.image-section {
+  width: 60%;
+  /* Add your image styles here */
+}
+
+.form-section {
+  width: 40%;
+  padding: 2rem;
+}
+
+.dashboard-page {
+  padding: 2rem;
+}
