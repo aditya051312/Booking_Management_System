@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.login-page {
+  display: flex;
+}
+
+.image-section {
+  width: 60%;
+  /* Insert your image URL here */
+  background-image: url('...');
+  background-size: cover;
+}
+
+.form-section {
+  width: 40%;
+  padding: 20px;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
