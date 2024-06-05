@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+}
+
+.image-section {
+  width: 60%;
+}
+
+.form-section {
+  width: 40%;
+  padding: 20px;
+}
