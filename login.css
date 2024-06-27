@@ -1,0 +1,26 @@
+.login-page {
+  display: flex;
+}
+
+.image-section {
+  flex: 60%;
+  /* Insert image background here */
+}
+
+.form-section {
+  flex: 40%;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form input {
+  margin-bottom: 10px;
+}
+
+form button {
+  margin-top: 20px;
+}
