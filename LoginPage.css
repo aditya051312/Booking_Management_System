@@ -1,0 +1,12 @@
+.login-page {
+  display: flex;
+  height: 100vh;
+}
+
+.image {
+  width: 60%;
+}
+
+.form {
+  width: 40%;
+}
