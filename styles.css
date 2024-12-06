@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.login-page {
+  display: flex;
+}
+
+.image-section {
+  flex: 0 0 60%;
+  height: 100vh;
+  background: url('your-image.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+.form-section {
+  flex: 1;
+  padding: 50px;
+}
+
+.form-section h1 {
+  margin-bottom: 20px;
+}
+
+.form-section p {
+  margin-bottom: 40px;
+}
+
+.form-section form {
+  margin-bottom: 20px;
+}
